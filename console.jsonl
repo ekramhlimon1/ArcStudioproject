@@ -59,3 +59,6 @@
 {"level":"log","message":"restart sse, about to listen","timestamp":1791828937524}
 {"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=81c1db6e861da72637836d179594d8b0d7fb1465456d96357ed9549d06ef3f3d&user_info=","timestamp":1791828937525}
 {"level":"log","message":"open {\"isTrusted\":true}","timestamp":1791828937719}
+{"level":"log","message":"restart sse, about to listen","timestamp":1791829022244}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=81c1db6e861da72637836d179594d8b0d7fb1465456d96357ed9549d06ef3f3d&user_info=","timestamp":1791829022244}
+{"level":"log","message":"open {\"isTrusted\":true}","timestamp":1791829022443}
